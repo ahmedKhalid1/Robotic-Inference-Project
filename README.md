@@ -8,6 +8,6 @@ The project involved:
 * Performing experiments to choose the suitable network architecture 
 * Using nvidia digits to monitor hte training process 
 ***
-The network model is available here. And the dataset includeing the augmented data is available Here.
+The network model is available [here](https://drive.google.com/open?id=14cH2MRhxrFHrKvhdqYvxFUmIjperDZEo). 
 
-I uplodaed them separately because tey were too large to upload on github.
+I uplodaed it separately because it was too large to upload on github.
